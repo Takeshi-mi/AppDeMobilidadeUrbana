@@ -14,7 +14,7 @@ O Diagrama de Casos de Uso é uma representação visual das interações entre 
 - facilitar a comunicação e o planejamento;
 
 
-O diagrama de casos de uso ilustra as interações entre os atores (usuários) e o sistema:
+O diagrama de casos de uso abaixo ilustra as interações entre os atores (usuários) e o sistema:
 
 ![image](https://github.com/Takeshi-mi/AppDeMobilidadeUrbana/assets/101356765/6df95088-66f4-4dfb-b37d-e167e5a6f06e)
 
