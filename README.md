@@ -6,7 +6,7 @@ O aplicativo foi desenvolvido utilizando a linguagem de programação Java e o s
 
 
 ## Diagrama de casos de uso
-O Diagrama de Casos de Uso é uma representação visual das interações entre os atores (usuários externos) e o sistema. Ele descreve as funcionalidades que o sistema oferece e como os usuários interagem com ele. É o diagrama mais amigável para mostrar o projeto para o cliente(pessoa não desenvolvedora). É útil para:
+O Diagrama de Casos de Uso é uma representação visual das interações entre os atores (usuários externos) e o sistema. Ele descreve as funcionalidades que o sistema oferece e como os usuários interagem com ele. É uma forma amigável de mostrar o projeto para o cliente(pessoa não desenvolvedora), sendo útil para:
 - Identificar e validar os requisitos do sistema;
 - visualizar as interações entre usuários e sistema;
 - alinhar as expectativas do cliente e da equipe de desenvolvimento;
@@ -29,3 +29,39 @@ O Diagrama de Classes é uma representação visual da estrutura de um sistema o
 O diagrama de classes abaixo apresenta as principais entidades do aplicativo e suas relações:
 ![image](https://github.com/Takeshi-mi/AppDeMobilidadeUrbana/assets/101356765/5787f823-1fa1-404a-a5a6-7fe3ea431b6f)
 ![image](https://github.com/Takeshi-mi/AppDeMobilidadeUrbana/assets/101356765/73e0898b-810c-4fcd-915b-a6b464caefc3)
+
+## Conhecimentos Adquiridos
+Durante o desenvolvimento deste projeto, adquiri os seguintes conhecimentos e habilidades relacionadas à Análise Orientada a Objetos e ao projeto:
+
+- Modelagem de sistemas utilizando diagramas de classes e casos de uso.
+- Utilização do software Astah para criação dos diagramas.
+- Compreensão da estrutura e organização de um sistema orientado a objetos.
+- Identificação e definição de requisitos funcionais e fluxos de trabalho.
+- Entendimento dos principais relacionamentos entre classes, como associação, herança, agregação e composição.
+- Alinhamento de expectativas com o cliente, por meio da visualização dos diagramas de casos de uso.
+- Identificação de lacunas nos requisitos e funcionalidades durante a modelagem do sistema.
+- Antecipação de possíveis impactos e decisões de design com base nas relações e dependências das classes.
+- Comunicação efetiva com a equipe de desenvolvimento, utilizando os diagramas como referência para o design e implementação do sistema.
+
+Esses conhecimentos e habilidades adquiridos foram fundamentais para o desenvolvimento bem-sucedido deste projeto de aplicativo de mobilidade urbana. Eles me proporcionaram uma compreensão mais profunda da análise orientada a objetos e das práticas de modelagem, permitindo tomar decisões informadas e entregar um sistema de qualidade que atenda às necessidades do cliente.
+
+
+
+## Licença
+
+Este projeto está licenciado nos termos da licença MIT. Consulte o arquivo [LICENSE] para obter mais informações.
+
+
+## Contato
+
+Este projeto foi desenvolvido por uma equipe de 3 pessoas. Caso tenha alguma dúvida ou sugestão relacionada ao projeto, entre em contato com os membros da equipe:
+
+- [Takeshi Miura]([link do perfil do GitHub](https://github.com/Takeshi-mi)) - [LinkedIn](https://www.linkedin.com/in/e-takeshimiura/)
+- [Sara Candido]([link do perfil do GitHub](https://github.com/Sayorita)) - [LinkedIn]
+- [Everton Leon]([link do perfil do GitHub](https://github.com/Everton-Leon)) - [LinkedIn](https://www.linkedin.com/in/everton-leon-37574b263/?originalSubdomain=br)
+
+Agradecemos a contribuição de todos os membros da equipe na realização deste projeto!
+
+Cada membro da equipe possui experiência em Análise Orientada a Objetos, desenvolvimento de software e contribuições em projetos colaborativos. Não hesite em entrar em contato com qualquer um de nós para discutir o projeto, fornecer feedback ou compartilhar ideias. Estamos disponíveis para ajudar e trocar conhecimentos.
+
+
