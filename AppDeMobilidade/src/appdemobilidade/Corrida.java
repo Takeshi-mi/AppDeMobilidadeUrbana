@@ -3,52 +3,28 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package appdemobilidade;
-
-import java.util.Arrays;
-
-public class Carro {
+public class Corrida {
     private int id;
     private int idCliente;
     private int idMotorista;
-    private double[] origemCoordenada; // [32819839,-132199]
-    private double [] destinoDestino;
+    private double[] origemCoordenada;
+    private double[] destinoCoordenada;
     private String origemNome;
     private String destinoNome;
     private double valor;
     private double avaliacao;
     
-    public Carro(){}
+    private void exibirDados(){
+        // optamos por não printar a coordenada nesse método, pois achamos que faz mais sentido assim.
+        System.out.println("ID: " + this.id);
+        System.out.println("ID Cliente: " + this.idCliente);
+        System.out.println("ID Motorista: " + this.idMotorista);
+        System.out.println("Local de origem: " + this.origemNome);
+        System.out.println("Local de destino: " + this.destinoNome);
+        System.out.println("Valor: RS" + this.valor);
+        System.out.println("Avaliação: " + this.avaliacao);
+    }
 
-    public Carro(int id, int idCliente, int idMotorista, double[] origemCoordenada, double[] destinoDestino, String origemNome, String destinoNome, double valor, double avaliacao) {
-        this.id = id;
-        this.idCliente = idCliente;
-        this.idMotorista = idMotorista;
-        this.origemCoordenada = origemCoordenada;
-        this.destinoDestino = destinoDestino;
-        this.origemNome = origemNome;
-        this.destinoNome = destinoNome;
-        this.valor = valor;
-        this.avaliacao = avaliacao;
-    }
-        public Carro(int id, int idCliente, int idMotorista, double[] origemCoordenada, String origemNome) {
-        this.id = id;
-        this.idCliente = idCliente;
-        this.idMotorista = idMotorista;
-        this.origemCoordenada = origemCoordenada;
-//        this.destinoDestino = destinoDestino;
-        this.origemNome = origemNome;
-
-    }
-    
-    public void exibirDados(){
-        System.out.printf("""
-                          id: %d
-                          idCliente:  %d
-                          idMotorista: %d
-                          Endereço de origem:¨%s 
-                          Coordenada de origem: %s""",id, idCliente, idMotorista, origemNome,Arrays.toString(origemCoordenada));
-    }
-    
     public int getId() {
         return id;
     }
@@ -81,12 +57,12 @@ public class Carro {
         this.origemCoordenada = origemCoordenada;
     }
 
-    public double[] getDestinoDestino() {
-        return destinoDestino;
+    public double[] getDestinoCoordenada() {
+        return destinoCoordenada;
     }
 
-    public void setDestinoDestino(double[] destinoDestino) {
-        this.destinoDestino = destinoDestino;
+    public void setDestinoCoordenada(double[] destinoCoordenada) {
+        this.destinoCoordenada = destinoCoordenada;
     }
 
     public String getOrigemNome() {
@@ -120,9 +96,6 @@ public class Carro {
     public void setAvaliacao(double avaliacao) {
         this.avaliacao = avaliacao;
     }
-    
-    
-    
     
     
 }

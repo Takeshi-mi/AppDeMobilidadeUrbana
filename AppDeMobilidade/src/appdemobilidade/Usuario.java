@@ -6,10 +6,6 @@ package appdemobilidade;
 
 import javax.crypto.SealedObject;
 
-/**
- *
- * @author Takeshi
- */
 public class Usuario {
     private int id;
     private String senha;
