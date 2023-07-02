@@ -57,8 +57,8 @@ Este projeto está licenciado nos termos da licença MIT. Consulte o arquivo [LI
 Este projeto foi desenvolvido por uma equipe de 3 pessoas. Caso tenha alguma dúvida ou sugestão relacionada ao projeto, entre em contato com os membros da equipe:
 
 - [Takeshi Miura](https://github.com/Takeshi-mi) - [LinkedIn](https://www.linkedin.com/in/e-takeshimiura/)
-- [Sara Candido](https://github.com/Sayorita) - [LinkedIn]
-- [Everton Leon](https://github.com/Everton-Leon)) - [LinkedIn](https://www.linkedin.com/in/everton-leon-37574b263/?originalSubdomain=br)
+- [Sara Candido](https://github.com/Sayorita) - LinkedIn
+- [Everton Leon](https://github.com/Everton-Leon) - [LinkedIn](https://www.linkedin.com/in/everton-leon-37574b263/?originalSubdomain=br)
 
 Agradecemos a contribuição de todos os membros da equipe na realização deste projeto!
 
