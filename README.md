@@ -6,14 +6,25 @@ O aplicativo foi desenvolvido utilizando a linguagem de programação Java e o s
 
 
 ## Diagrama de casos de uso
-O Diagrama de Casos de Uso é uma representação visual das interações entre os atores (usuários externos) e o sistema. Ele descreve as funcionalidades que o sistema oferece e como os usuários interagem com ele. É o diagrama mais amigável para mostrar o projeto para o cliente(pessoa não desenvolvedora). É útil para identificar os requisitos do sistema, visualizar as interações entre usuários e sistema, definir os limites do sistema, compreender os fluxos de trabalho, facilitar a comunicação e o planejamento, e auxiliar no teste e validação do sistema.
+O Diagrama de Casos de Uso é uma representação visual das interações entre os atores (usuários externos) e o sistema. Ele descreve as funcionalidades que o sistema oferece e como os usuários interagem com ele. É o diagrama mais amigável para mostrar o projeto para o cliente(pessoa não desenvolvedora). É útil para:
+- Identificar e validar os requisitos do sistema;
+- visualizar as interações entre usuários e sistema;
+- alinhar as expectativas do cliente e da equipe de desenvolvimento;
+- compreender os fluxos de trabalho;
+- facilitar a comunicação e o planejamento;
+
 
 O diagrama de casos de uso ilustra as interações entre os atores (usuários) e o sistema:
 
 ![image](https://github.com/Takeshi-mi/AppDeMobilidadeUrbana/assets/101356765/6df95088-66f4-4dfb-b37d-e167e5a6f06e)
 
 ## Diagrama de Classes
-O Diagrama de Classes é uma representação visual da estrutura de um sistema orientado a objetos. Ele mostra as classes, seus atributos e métodos, e os relacionamentos entre elas. Esse diagrama é útil para modelar a estrutura do sistema, visualizar as relações entre as classes, compreender a arquitetura do sistema, facilitar a comunicação e auxiliar no design e implementação.
+O Diagrama de Classes é uma representação visual da estrutura de um sistema orientado a objetos. Ele mostra as classes, seus atributos e métodos, e os relacionamentos entre elas. Esse diagrama é útil para:
+- modelar a estrutura do sistema;
+- visualizar as relações entre as classes;
+- compreender a arquitetura do sistema;
+- identificar os requisitos e funcionalidades antes de codar;
+- facilitar a comunicação e auxiliar no design e implementação.
 
 O diagrama de classes abaixo apresenta as principais entidades do aplicativo e suas relações:
 ![image](https://github.com/Takeshi-mi/AppDeMobilidadeUrbana/assets/101356765/5787f823-1fa1-404a-a5a6-7fe3ea431b6f)
