@@ -5,7 +5,7 @@
 package appdemobilidade;
 public class Corrida {
     private int id;
-    private int idCliente;
+    private int idCliente; // Poderia ser um objeto do tipo cliente. Que na verdade é do tipo passageiro. 
     private int idMotorista;
     private double[] origemCoordenada;
     private double[] destinoCoordenada;

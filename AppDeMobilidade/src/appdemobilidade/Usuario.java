@@ -25,7 +25,7 @@ public class Usuario {
     }
     
     public void login(){
-       //Verificar email e senha no banco de DADOS E FAZER A VAALIDAÇÃO.
+       //Verificar email e senha no banco de DADOS E FAZER A VALIDAÇÃO.
         System.out.println("Login realizado com sucesso");
     }
     public void cadastrarConta(){
